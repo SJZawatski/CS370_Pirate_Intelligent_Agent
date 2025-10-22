@@ -1,6 +1,3 @@
-# CS370_Pirate_Intelligent_Agent
-
-
 # CS 370: Pirate Intelligent Agent
 **Author:** Stephen Zawatski  
 **Course:** Southern New Hampshire University – CS 370: Current and Emerging Trends in Computer Science  
